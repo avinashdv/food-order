@@ -1,0 +1,87 @@
+.item {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 2%;
+  border-bottom: 1px solid green;
+}
+
+.item-changes {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 20%;
+}
+
+.item-changes button {
+  width: 40%;
+  font-size: 1.4rem;
+  border: 0;
+  background: green;
+  color: yellow;
+  padding: 7%;
+}
+
+.item-about {
+  width: 30%;
+}
+
+.item-about h3,
+p {
+  margin: 6px;
+}
+
+.item-about-details {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 5% 0;
+}
+
+.item-about-details p:last-child {
+  margin: 0;
+  padding: 1% 4%;
+  border: 1px solid lavender;
+  font-size: 1.2rem;
+}
+
+.item-about-details p:first-child {
+  color: green;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.total {
+  padding: 1%;
+  margin: 1%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.2rem;
+}
+
+.totalAmt {
+  float: right;
+}
+
+.action-buttons {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.action-buttons button {
+  padding: 16px;
+  margin: 2%;
+  border-radius: 24px;
+  font-size: 1.1rem;
+}
+
+.inactive {
+  background-color: transparent;
+  color: green;
+  border: 1px solid green;
+}
+
+.active {
+  background-color: green;
+  color: yellow;
+  border: 0;
+}

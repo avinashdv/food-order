@@ -1,0 +1,8 @@
+.availableMeals {
+  width: 60%;
+  margin: 3% auto;
+}
+
+.availableMeals div {
+  background-color: lavender;
+}

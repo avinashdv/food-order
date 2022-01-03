@@ -1,0 +1,10 @@
+.addBtn {
+  width: 100%;
+  background-color: green;
+  color: yellow;
+  padding: 2% 1%;
+  font-size: 1.1rem;
+  border: 0;
+  font-weight: bold;
+  border-radius: 12px;
+}

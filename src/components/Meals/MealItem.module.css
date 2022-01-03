@@ -1,0 +1,19 @@
+.mealItem {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  color: black;
+  margin: 2% 0;
+  font-size: 1.2rem;
+  border-bottom: 2px solid green;
+}
+
+.mealAbout h3,
+p {
+  margin: 4px;
+}
+
+.price {
+  font-weight: bold;
+}
