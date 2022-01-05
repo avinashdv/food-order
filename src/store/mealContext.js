@@ -14,24 +14,28 @@ const DUMMY_MEALS = [
     name: "Mysore Bonda",
     price: 25,
     about: "4 Hot and crispy Bonda",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSvSu3GhZd77CJv2-wZ9P43JXTQXKg2ZcHPA&usqp=CAU",
   },
   {
     id: "m2",
     name: "Poori",
     price: 30,
     about: "2 Hot and Indian Bread served with curry",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuCv6T-U13kAfz1DdU0xiMIm6hRM3y73a4FQ&usqp=CAU",
   },
   {
     id: "m3",
     name: "Dosa",
     price: 20,
     about: "1 Big round dosa",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMwqmSj1cmR8uPdtFw2CYNN5y-zmbiMXRnjw&usqp=CAU",
   },
   {
     id: "m4",
     name: "Idly",
     price: 20,
     about: "4 round and white idly",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPz-WOAMGdzmLdcXOTbJd4fzzwirx6b2hc3Q&usqp=CAU",
   },
 ];
 

@@ -7,6 +7,11 @@ const Header = (props) => {
     <React.Fragment>
       <div className={classes.header}>
         <h1>ReactOrganicMeals</h1>
+        <img
+          src="https://www.pinclipart.com/picdir/middle/79-792502_leave-vector-single-png-transparent-download-organic-food.png"
+          alt="Leaf"
+          className={classes.organicImg}
+        />
         <Cart onCartOpen={props.onCartOpen} />
       </div>
       <div className={classes.img}>
